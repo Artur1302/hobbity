@@ -1,0 +1,3 @@
+INSERT INTO HOBBIT VALUES(1,'Frodo','Baggins');
+INSERT INTO HOBBIT VALUES(2,'Bilbo','Baggins');
+INSERT INTO HOBBIT VALUES(3,'Frodo','Gardner');
